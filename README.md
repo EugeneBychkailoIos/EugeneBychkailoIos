@@ -12,8 +12,8 @@
     let calendar: NSCalendar = NSCalendar(calendarIdentifier: .gregorian)
     let now = Date()
     let calcAge = calendar.components(.year, from: birthdayDate, to: now, options: [])
-    let age = calcAge.year
-    return age!
+    guard let age = calcAge.year else { return }
+    return age
    }
 calcAge(05/01/1997)
 ```
