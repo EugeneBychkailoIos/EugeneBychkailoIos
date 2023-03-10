@@ -1,6 +1,6 @@
 ## Hi, I'm Eugene 👋
 
-*  about 2 year of experience in iOS Application development of commercial projects.
+*  about 3 year of experience in iOS Application development of commercial projects.
 *  passionate about new technologies
 *  like to study foreign languages
 *  live in Ukraine
